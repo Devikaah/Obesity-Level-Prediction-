@@ -51,3 +51,7 @@ This project analyzes health and lifestyle data to classify individuals into one
 6. Model Training
 7. Model Evaluation
 8. Model Deployment using Gradio
+
+
+## Gradio Preview
+![Gradio](ml.png)
